@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> ذوبني حبك في الليل الطويل
+> ونار الشوق تحرق كل صمتي
+> خذني إليك يا سري الجميل
+> أنت روحي وأنت كل وقتي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
